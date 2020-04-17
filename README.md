@@ -3,7 +3,6 @@
 <img src='Images/COVID-19.jpg'>
 
 ## Contents:
-- [File Description](#File-Description)
 - [Introduction](#Introduction)
 - [Pipeline Framework](#Pipeline-Framework)
    - [Setup Phase](#Setup-Phase)
@@ -18,16 +17,6 @@
 - [Challenges](#Challenges) 
 - [Next Steps](#Next-Steps)
 - [References](#References)
-
-## File Description
-
-- **COVID-19 Chatbot.ipynb**: contains data parsing and chatbot building process. **This is the main file**.
-- **Twitter and FAQs Scraping.ipynb**: contains the data scraping process of the MOH and MOI's twitter accounts and the MOH's FAQs webpage.
-- **TrackCorona_API Scraping.ipynb**: contains the data scraping process of the TrackCorona website.
-- **SaudiMOI_MOH.csv**: contains scraped tweets.
-- **moh_qna.csv**: contains scraped MOH's FAQs.
-- **scraped_new.txt**: contains scraped TrackCorona figures.
-- **Images Folder**: contains the images used thoughout the capstone.
 
 # Introduction
 <div style="text-align: justify"> COVID-19 is “a newly discovered coronavirus that infects humans and whose [rapid] spread has [led] to a global pandemic with zero available therapeutic strategies” (Mamoor, 2020, p. 5).</div>
